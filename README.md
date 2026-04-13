@@ -11,11 +11,18 @@ com o objetivo de colaborar na **detecção precoce de sinais de Esclerose Múlt
 
 ---
 
+## 🔹 Resultado dos treinamentos
+
+- Após a atualização e a implementação de novos scripts para o treinamento automático e aprimorado, no momento obtêm-se os seguintes resultados:
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+---
+
 ## ⚠️ Status Atual
 
 - O projeto ainda está em fase de **treinamento e testes**.
-- Até o momento, o modelo foi treinado apenas por **6 epochs**, então os resultados atuais são limitados.
-- Para obter resultados robustos, o ideal seria treinar o modelo por **200+ epochs e com mais imagens**, o que demanda alto poder de processamento.
 - Este README será atualizado à medida que o treinamento avance e os resultados melhorem.
 
 ## Alguns resultados por enquanto - MUITO BAIXOS, SEM RESULTADO APARENTES
